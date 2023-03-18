@@ -1,0 +1,76 @@
+<object-stream>
+  <list>
+    <Staff>
+      <firstName>George </firstName>
+      <secondName>Thompson</secondName>
+      <dayOfMonth>12</dayOfMonth>
+      <monthOfYear>3</monthOfYear>
+      <year>1985</year>
+      <position>Instructor</position>
+    </Staff>
+    <Staff>
+      <firstName>Layla</firstName>
+      <secondName>Johnson</secondName>
+      <dayOfMonth>25</dayOfMonth>
+      <monthOfYear>9</monthOfYear>
+      <year>1993</year>
+      <position>Help Desk</position>
+    </Staff>
+    <Staff>
+      <firstName>Nathan </firstName>
+      <secondName>Robinson</secondName>
+      <dayOfMonth>19</dayOfMonth>
+      <monthOfYear>6</monthOfYear>
+      <year>1989</year>
+      <position>Cleaner</position>
+    </Staff>
+    <Staff>
+      <firstName>Allison</firstName>
+      <secondName>Nguyen</secondName>
+      <dayOfMonth>30</dayOfMonth>
+      <monthOfYear>11</monthOfYear>
+      <year>1991</year>
+      <position>Help Desk</position>
+    </Staff>
+    <Staff>
+      <firstName>Jackson </firstName>
+      <secondName>Lewis</secondName>
+      <dayOfMonth>18</dayOfMonth>
+      <monthOfYear>1</monthOfYear>
+      <year>1990</year>
+      <position>Cleaner</position>
+    </Staff>
+    <Staff>
+      <firstName>Samantha</firstName>
+      <secondName>Ramirez</secondName>
+      <dayOfMonth>14</dayOfMonth>
+      <monthOfYear>5</monthOfYear>
+      <year>1994</year>
+      <position>Help Desk</position>
+    </Staff>
+    <Staff>
+      <firstName>Adam</firstName>
+      <secondName>Jenkins</secondName>
+      <dayOfMonth>24</dayOfMonth>
+      <monthOfYear>8</monthOfYear>
+      <year>1987</year>
+      <position>Cleaner</position>
+    </Staff>
+    <Staff>
+      <firstName>Lily </firstName>
+      <secondName>Gonzalez</secondName>
+      <dayOfMonth>9</dayOfMonth>
+      <monthOfYear>12</monthOfYear>
+      <year>1995</year>
+      <position>Help Desk</position>
+    </Staff>
+    <Staff>
+      <firstName>Victoria</firstName>
+      <secondName>Martinez</secondName>
+      <dayOfMonth>5</dayOfMonth>
+      <monthOfYear>7</monthOfYear>
+      <year>1990</year>
+      <position>Instructor</position>
+    </Staff>
+  </list>
+</object-stream>
